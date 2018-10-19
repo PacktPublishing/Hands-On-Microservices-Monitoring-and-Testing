@@ -35,9 +35,9 @@ public class AccountControllerTest {
 	
 	@Test
 	public void findByAccountId (){
-		Account account = new Account();
-		given(accountRepository.findAccountByAccountId(1000)).willReturn(account);
-		Account acct = accountController.findByAccountId(1002);
+		Account account = new Account(1003, "Arnav Rajput", "Noida", "9832XXX23", "arnav.raj@mail.com");
+		given(accountRepository.findAccountByAccountId(10003)).willReturn(account);
+		Account acct = accountController.findByAccountId(10003);
         assertThat(acct.getName(), is("Arnav Rajput"));
 	}
 }
