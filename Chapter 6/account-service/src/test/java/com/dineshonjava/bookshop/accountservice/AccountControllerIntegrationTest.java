@@ -39,7 +39,7 @@ public class AccountControllerIntegrationTest {
 		Account rushika = new Account(1003, "Rushika Rajput", "Noida", "9832XXX23", "rushika.raj@mail.com");
 		given(accountRepository.findAccountByAccountId(10003)).willReturn(rushika);
 		mockMvc.perform(get("/account/10003"))
-		.andExpect(content().string("Hello Rushika Rajput!"))
+		.andExpect(content().json("{\"accountId\":1003,\"name\":\"Rushika Rajput\",\"address\":\"Noida\",\"mobile\":\"9832XXX23\",\"email\":\"rushika.raj@mail.com\"}"))
 		.andExpect(status().is2xxSuccessful());
 	}
 
