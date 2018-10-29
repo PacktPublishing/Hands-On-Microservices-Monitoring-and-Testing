@@ -61,7 +61,7 @@ Click on the following link to see the Code in Action:
 ### Related products 
 * Hands-On Microservices with C# [[Packt]](https://www.packtpub.com/application-development/hands-microservices-c?utm_source=GitHub&utm_medium=repository&utm_campaign=9781789533682) [[Amazon]](https://www.amazon.com/dp/1789533686)
 
-* Hands-On Microservices with Node.js [[Packt]](https://www.packtpub.com/web-development/hands-microservices-nodejs?utm_source=GitHub&utm_medium=repository&utm_campaign=9781788620215) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Hands-On Microservices with Node.js [[Packt]](https://www.packtpub.com/web-development/hands-microservices-nodejs?utm_source=GitHub&utm_medium=repository&utm_campaign=9781788620215) [[Amazon]](https://www.amazon.com/dp/1788620216)
 
 ## Get to Know the Author
 **Dinesh Rajput**
