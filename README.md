@@ -61,19 +61,20 @@ Click on the following link to see the Code in Action:
 ### Related products 
 * Hands-On Microservices with C# [[Packt]](https://www.packtpub.com/application-development/hands-microservices-c?utm_source=GitHub&utm_medium=repository&utm_campaign=9781789533682) [[Amazon]](https://www.amazon.com/dp/1789533686)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Hands-On Microservices with Node.js [[Packt]](https://www.packtpub.com/web-development/hands-microservices-nodejs?utm_source=GitHub&utm_medium=repository&utm_campaign=9781788620215) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
-## Get to Know the Author(s)
-**Author Name**
-Bio
+## Get to Know the Author
+**Dinesh Rajput**
+Dinesh Rajput is a founder of Dineshonjava (dot) com, a blog for Spring and Java techies. He is a Spring enthusiast and a Pivotal Certified Spring Professional. He has written two best-selling books, Spring 5 Design Patterns and Mastering Spring Boot 2.0. Mastering Spring Boot 2.0 is the Amazon #1 best-selling book on Java. He has more than 10 years of experience with various aspects of Spring and cloud-native development, such as REST APIs and microservice architecture.
 
-**Author Name**
-Bio
+He is currently working as an architect at a leading company. He has worked as a tech lead at Bennett, Coleman & Co. Ltd, and Paytm.
+
+He has a master's degree in computer engineering from JSS Academy of Technical Education, Noida, and lives in Noida with his family.
 
 
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+## Other books by the author
+* [Spring 5 Design Patterns](https://www.packtpub.com/application-development/spring-5-design-patterns?utm_source=GitHub&utm_medium=repository&utm_campaign=9781788299459)
+* [Mastering Spring Boot 2.0](https://www.packtpub.com/application-development/mastering-spring-boot-20?utm_source=GitHub&utm_medium=repository&utm_campaign=9781787127562)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
