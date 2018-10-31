@@ -1,8 +1,8 @@
 # Hands-On Microservices – Monitoring and Testing
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Hands-On Microservices – Monitoring and Testing" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/hands-microservices-%E2%80%93-monitoring-and-testing?utm_source=GitHub&utm_medium=repository&utm_campaign=9781789133608"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10699.png" alt="Hands-On Microservices – Monitoring and Testing" height="256px" align="right"></a>
 
-This is the code repository for [Hands-On Microservices – Monitoring and Testing](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Hands-On Microservices – Monitoring and Testing](https://www.packtpub.com/application-development/hands-microservices-%E2%80%93-monitoring-and-testing?utm_source=GitHub&utm_medium=repository&utm_campaign=9781789133608), published by Packt.
 
 **A performance engineer’s guide to the continuous testing and monitoring of microservices**
 
