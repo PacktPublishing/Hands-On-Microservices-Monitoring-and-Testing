@@ -65,7 +65,7 @@ Click on the following link to see the Code in Action:
 
 ## Get to Know the Author
 **Dinesh Rajput**
-Dinesh Rajput is a founder of Dineshonjava (dot) com, a blog for Spring and Java techies. He is a Spring enthusiast and a Pivotal Certified Spring Professional. He has written two best-selling books, Spring 5 Design Patterns and Mastering Spring Boot 2.0. Mastering Spring Boot 2.0 is the Amazon #1 best-selling book on Java. He has more than 10 years of experience with various aspects of Spring and cloud-native development, such as REST APIs and microservice architecture.
+is a founder of Dineshonjava (dot) com, a blog for Spring and Java techies. He is a Spring enthusiast and a Pivotal Certified Spring Professional. He has written two best-selling books, Spring 5 Design Patterns and Mastering Spring Boot 2.0. Mastering Spring Boot 2.0 is the Amazon #1 best-selling book on Java. He has more than 10 years of experience with various aspects of Spring and cloud-native development, such as REST APIs and microservice architecture.
 
 He is currently working as an architect at a leading company. He has worked as a tech lead at Bennett, Coleman & Co. Ltd, and Paytm.
 
